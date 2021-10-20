@@ -85,7 +85,7 @@ author:
   bio              : "glumpenproletariat (noun): The melancholic stratum of the proletariat."
   location         : "Hamilton, Ontario"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=ewh3Q1AAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
