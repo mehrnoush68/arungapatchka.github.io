@@ -1,5 +1,5 @@
 ---
-title: "Sessional Instructor Teaching experience"
+title: "Sessional Instructor teaching experience"
 collection: teaching
 type: "Community College Courses"
 permalink: /teaching/sessional-teaching
