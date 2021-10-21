@@ -1,7 +1,7 @@
 ---
 title: "Transforming DH Pedagogy"
 collection: publications
-permalink: /publication/2021-05-19-Transforming-DH-Pedagogy
+permalink: /publication/2021-05-19-transforming-DH-pedagogy
 excerpt: 'This paper is describing the ways in which new forms of pedagogical practices are expanding and changing the field of Digital Humanities.'
 date: 2021-05-19
 venue: 'Digital Studies/Le champ numérique'
