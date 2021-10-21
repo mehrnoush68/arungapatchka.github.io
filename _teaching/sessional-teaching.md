@@ -11,6 +11,13 @@ location: "Hamilton, Ontario"
 Courses Taught: 
 ======
 
+* Society, Technology and Social Issues, SSCI SS299
+* Popular Culture, SSCI SSA106
+* Introduction to Applied Research, COM AS401
+* Communication Studies, COMM 11040
+* Labour Studies, SSCI 10066
+
+
 | Course Title                               | Course Code           | Term      |
 | ------------------------------------------ |:---------------------:| ---------:|
 | Popular Culture                            | SSCI SSA106           | Winter 20 |
@@ -18,3 +25,4 @@ Courses Taught:
 | Society, Technology and Social Issues      | SSCI SS299            | Fall 19   |
 | Labour Studies                             | SSCI 10066            | Fall 18   |
 | Communication Studies                      | COMM 11040            | Fall 18   |
+____
