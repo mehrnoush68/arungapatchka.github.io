@@ -8,9 +8,6 @@ date: 2018-09-01 to 2020-04-30
 location: "Hamilton, Ontario"
 ---
 
-Courses Taught: 
-======
-
 - Society, Technology and Social Issues, SSCI SS299
 
 - Popular Culture, SSCI SSA106
@@ -20,4 +17,9 @@ Courses Taught:
 - Communication Studies, COMM 11040, Department of Language Studies
 
 - Labour Studies, SSCI 10066
+
+Courses Taught: 
+======
+
+
 
