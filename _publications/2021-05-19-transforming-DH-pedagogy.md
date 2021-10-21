@@ -1,4 +1,3 @@
----
 title: "Transforming DH Pedagogy"
 collection: publications
 permalink: /publication/2021-05-19-transforming-DH-pedagogy
@@ -9,8 +8,5 @@ paperurl: 'https://www.digitalstudies.org/articles/10.16995/dscn.379/'
 citation: 'Boulay, N., Morford, A. C., Jacob, A., Patel, K., & O'Donnell, K. (2021). Transforming DH Pedagogy. Digital Studies/le Champ Numérique, 11(1), None. DOI: http://doi.org/10.16995/dscn.379.'
 ---
 This paper is describing the ways in which new forms of pedagogical practices are expanding and changing the field of Digital Humanities.
-
 [Download paper here](https://www.digitalstudies.org/articles/10.16995/dscn.379/)
-
 Recommended citation: Boulay, N., Morford, A. C., Jacob, A., Patel, K., & O'Donnell, K. (2021). Transforming DH Pedagogy. Digital Studies/le Champ Numérique, 11(1), None. DOI: http://doi.org/10.16995/dscn.379.
----
