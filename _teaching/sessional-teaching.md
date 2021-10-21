@@ -11,13 +11,13 @@ location: "Hamilton, Ontario"
 Courses Taught: 
 ======
 
-Society, Technology and Social Issues, SSCI SS299
+* Society, Technology and Social Issues, SSCI SS299
 
-Popular Culture, SSCI SSA106
+* Popular Culture, SSCI SSA106
 
-Introduction to Applied Research, COM AS401
+* Introduction to Applied Research, COM AS401
 
-Communication Studies, COMM 11040, Department of Language Studies
+* Communication Studies, COMM 11040, Department of Language Studies
 
-Labour Studies, SSCI 10066
+* Labour Studies, SSCI 10066
 
