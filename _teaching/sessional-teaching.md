@@ -4,7 +4,7 @@ collection: teaching
 type: "Community College Courses"
 permalink: /teaching/sessional-teaching
 venue: "Department of Liberal Studies, School of Community, Justice and Liberal Studies, Mohawk College of Applied Arts and Technology"
-date: 2018-09-01
+date: 2018-09-01 to 2020-04-30
 location: "Hamilton, Ontario"
 ---
 
@@ -20,3 +20,4 @@ Introduction to Applied Research, COM AS401
 Communication Studies, COMM 11040, Department of Language Studies
 
 Labour Studies, SSCI 10066
+
