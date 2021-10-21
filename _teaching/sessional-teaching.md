@@ -8,18 +8,13 @@ date: 2018-09-01 to 2020-04-30
 location: "Hamilton, Ontario"
 ---
 
-- Society, Technology and Social Issues, SSCI SS299
-
-- Popular Culture, SSCI SSA106
-
-- Introduction to Applied Research, COM AS401
-
-- Communication Studies, COMM 11040, Department of Language Studies
-
-- Labour Studies, SSCI 10066
-
 Courses Taught: 
 ======
 
-
-
+| Course Title                               | Course Code           | Term      |
+| ------------------------------------------ |:---------------------:| ---------:|
+| Popular Culture                            | SSCI SSA106           | Winter 20 |
+| Introduction to Applied Research           | COM AS401             | Winter 20 |
+| Society, Technology and Social Issues      | SSCI SS299            | Fall 19   |
+| Labour Studies                             | SSCI 10066            | Fall 18   |
+| Communication Studies                      | COMM 11040            | Fall 18   |
