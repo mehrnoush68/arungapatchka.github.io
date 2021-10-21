@@ -13,3 +13,4 @@ This paper is describing the ways in which new forms of pedagogical practices ar
 [Download paper here](https://www.digitalstudies.org/articles/10.16995/dscn.379/)
 
 Recommended citation: Boulay, N., Morford, A. C., Jacob, A., Patel, K., & O'Donnell, K. (2021). Transforming DH Pedagogy. Digital Studies/le Champ Numérique, 11(1), None. DOI: http://doi.org/10.16995/dscn.379.
+---
