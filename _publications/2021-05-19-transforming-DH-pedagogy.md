@@ -1,16 +1,15 @@
 ---
-title: "Transforming DH Pedagogy"
+title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2021-05-19-transforming-DH-pedagogy
-excerpt: 'This paper is describing the ways in which new forms of pedagogical practices are expanding and changing the field of Digital Humanities.'
-date: 2021-05-19
-venue: 'Digital Studies/Le champ numérique'
-paperurl: 'https://www.digitalstudies.org/articles/10.16995/dscn.379/'
-citation: 'Boulay, N., Morford, A. C., Jacob, A., Patel, K., & O'Donnell, K. (2021). Transforming DH Pedagogy. Digital Studies/le Champ Numérique, 11(1),'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is offers a counter-hegemonic cultural memory and media archeology of punch-card technologies.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://www.digitalstudies.org/articles/10.16995/dscn.379/)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation:  'Boulay, N., Morford, A. C., Jacob, A., Patel, K., & O'Donnell, K. (2021). Transforming DH Pedagogy. Digital Studies/le Champ Numérique, 11(1), None. DOI: http://doi.org/10.16995/dscn.379.'
----
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
