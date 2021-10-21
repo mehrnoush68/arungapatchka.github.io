@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant experience"
+title: "Teaching Assistant experience"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching-assistant
