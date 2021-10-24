@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Dipl.T. Ontario College Advanced Diploma in Electronics Engineering Technology - Telecommunication, Mohawk College, 2007
 * B.A. Combined Honours in Communication Studies, Cultural Studies and Critical Theory, McMaster University, 2010
 * M.P.C. Master of Professional Communication, Ryerson University, 2011
 * M.A. in Work and Society, McMaster University, 2017
