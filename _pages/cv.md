@@ -35,19 +35,19 @@ Work experience
   * Supervisor: Dr. Chandrima Chakraborty
  
  * Fall 2020: Research Assistant
-  * University of Victoria
-  * Duties included: Conference and Colloquium Organizing at the Electronics Textual Cultures Lab
-  * Supervisor: Dr. Ray Siemens
+   * University of Victoria
+   * Duties included: Conference and Colloquium Organizing at the Electronics Textual Cultures Lab
+   * Supervisor: Dr. Ray Siemens
 
  * Summer 2020: Research Assistant
-  * University of Toronto
-  * Duties included: Literature Review on the media genealogy of menticide
-  * Supervisor: Dr. Jeremy Packer
+   * University of Toronto
+   * Duties included: Literature Review on the media genealogy of menticide
+   * Supervisor: Dr. Jeremy Packer
 
  * Winter 2019: Research Assistant
-  * McMaster University
-  * Duties included: Literature Review on Data, Democracy and Dirty tricks
-  * Supervisor: Dr. Henry Giroux
+   * McMaster University
+   * Duties included: Literature Review on Data, Democracy and Dirty tricks
+   * Supervisor: Dr. Henry Giroux
   
 Skills
 ======
