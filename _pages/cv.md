@@ -11,21 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Combined Honours in Communication Studies, Cultural Studies and Critical Theory, McMaster University, 2010
+* M.P.C. Master of Professional Communication, Ryerson University, 2011
+* M.A. in Work and Society, McMaster University, 2017
+* M.A. in Cultural Studies and Critical Theory, McMaster University, 2019
+* Ph.D. in Information Studies, Media, Technology and Culture Concentration, University of Toronto, (2019-20xx)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Assistant
+  * University of Toronto
+  * Duties included: Social Media Research on Academic Tiktok
+  * Supervisor: Dr. Sara Grimes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Assistant
+  * University of Toronto
+  * Duties included: Community Liasion at the Critical Digital Humanities Initiative
+  * Supervisor: Dr. Elspeth Brown
+ 
+* Winter 2021: Research Assistant
+  * McMaster University
+  * Duties included: Literature Review on Migrant Indians and Foreign Remittance
+  * Supervisor: Dr. Chandrima Chakraborty
+ 
+ * Fall 2020: Research Assistant
+  * University of Victoria
+  * Duties included: Conference and Colloquium Organizing at the Electronics Textual Cultures Lab
+  * Supervisor: Dr. Ray Siemens
+
+ * Summer 2020: Research Assistant
+  * University of Toronto
+  * Duties included: Literature Review on the media genealogy of menticide
+  * Supervisor: Dr. Jeremy Packer
+
+ * Winter 2019: Research Assistant
+  * McMaster University
+  * Duties included: Literature Review on Data, Democracy and Dirty tricks
+  * Supervisor: Dr. Henry Giroux
   
 Skills
 ======
@@ -56,4 +78,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Canadian Society for Digital Humanities / Société canadienne des humanités numériques (CSDH/SCHN) Executive Council Graduate Student Representative (2020-2021)
+* 
+
