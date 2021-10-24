@@ -15,7 +15,7 @@ Education
 * M.P.C. Master of Professional Communication, Ryerson University, 2011
 * M.A. in Work and Society, McMaster University, 2017
 * M.A. in Cultural Studies and Critical Theory, McMaster University, 2019
-* Ph.D. in Information Studies, Media, Technology and Culture Concentration, University of Toronto, (2019-20xx, In-Progress)
+* Ph.D. in Information Studies, Media, Technology and Culture Concentration, University of Toronto, (In-Progress)
 
 Work experience
 ======
