@@ -79,5 +79,5 @@ Teaching
 Service and leadership
 ======
 * Canadian Society for Digital Humanities / Société canadienne des humanités numériques (CSDH/SCHN) Executive Council Graduate Student Representative (2020-2021)
-* 
+* Digital Humanities Summer Institute, Conference and Colloquium Co-Chair (2020-present)
 
