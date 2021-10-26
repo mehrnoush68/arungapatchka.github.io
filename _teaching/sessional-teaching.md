@@ -8,6 +8,7 @@ date: 2018-09-01 to 2020-04-30
 location: "Hamilton, Ontario"
 ---
 
+
 Courses Taught: 
 ======
 
