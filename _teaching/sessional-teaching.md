@@ -28,4 +28,4 @@ ____
 | Labour Studies                             | SSCI 10066            | Fall 18   |
 | Communication Studies                      | COMM 11040            | Fall 18   |
 
-____
+
