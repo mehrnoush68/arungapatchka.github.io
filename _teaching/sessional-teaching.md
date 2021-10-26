@@ -8,6 +8,7 @@ date: 2018-09-01 to 2020-04-30
 location: "Hamilton, Ontario"
 ---
 
+I have been a Sessional Instructor at Mohawk College of Applied Arts and Technology, Hamilton, Ontario.
 
 Courses Taught: 
 ======
