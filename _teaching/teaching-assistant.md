@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Toronto, Ontario"
 ---
 
-I have been a Teaching Assistant at the Institute of Communication, Culture, Information and Technology, University of Toronto, Mississauga and the Faculty of Information, University of Toronto, St. George.
+I have been a Teaching Assistant at the Department of Arts, Culture and Media, University of Toronto, Scarborough, the Institute of Communication, Culture, Information and Technology, University of Toronto, Mississauga and the Faculty of Information, University of Toronto, St. George.
 
 Courses Taught: 
 ======
