@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arun Jacob"
+title                    : "Mehrnoush Mohammadi"
 title_separator          : "-"
-name                     : &name "Arun Jacob"
+name                     : &name "Mehrnoush Mohammadi"
 description              : &description "personal description"
 url                      : https://arungapatchka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
